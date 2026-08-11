@@ -1,3 +1,5 @@
+
+
 # awesome_waves_optics_and_photonics
 Curated list of resources for engineers, physicists, and curious students interested in waves, optics, and photonics.
 
@@ -13,15 +15,11 @@ Curated list of resources for engineers, physicists, and curious students intere
 -2024 IPSR-I Silicon Photonics_Updated V2 (https://photonicsmanufacturing.org/sites/default/files/documents/2024_ipsr-i_silicon_photonics_updated_v2.pdf) - technology roadmap for silicon photonics
 
 ## Simulation Tools (Device-Level)
--Ansys
-
--Comsol
-
--Tidy3D (education license available)
-
--femwell (open source)
-
--Etc.
+- Ansys
+- Comsol
+- Tidy3D (education license available)
+- femwell (open source)
+- Etc.
 
 ## Oldies but goldies
 -"Dielectric-fibre surface waveguides for optical frequencies" (https://opticalfibrehistory.co.uk/how/1966-iee-paper/) - pioneering paper in fibre optics
@@ -30,4 +28,3 @@ Curated list of resources for engineers, physicists, and curious students intere
 
 ## History
 -City of Light - great history of optics up until the dotcom boom
-
