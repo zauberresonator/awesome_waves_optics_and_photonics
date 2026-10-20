@@ -2,6 +2,8 @@
 Curated list of resources for engineers, physicists, and curious students interested in waves, optics, and photonics.
 
 ## Other awesome lists on photonics
+- [Optics & Photonics](https://github.com/Cherish0925/optics-photonics) - English/Chinese software directory comparing optical models, licenses, programming interfaces and compute requirements, with links to documentation and source code.
+
 -awesome_photonics (https://github.com/joamatab/awesome_photonics) - emphasis is on comprehensive collection resources related to photonics
 
 -Awesome-PDA (https://github.com/zhengqigao/Awesome-PDA) - emphasis is on photonics design automation 
